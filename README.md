@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ravithikane02
-- 👀 I’m interested in Devops roles
+- 👀 I’m interested in Devops role
 - 🌱 I’m currently learning Kubernetes
 - 📫 How to reach me ravithikane02@gmail.com
 - ⚡ Fun fact: ...
